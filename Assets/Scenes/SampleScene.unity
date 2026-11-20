@@ -1170,7 +1170,7 @@ MonoBehaviour:
   enemies:
   - {fileID: 850273635705213080, guid: eb60eb24ea35d624e8cdc8e23288aa0e, type: 3}
   minTime: 50
-  maxTime: 75
+  maxTime: 70
 --- !u!4 &240565921
 Transform:
   m_ObjectHideFlags: 0
@@ -1218187,7 +1218187,8 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 8300000, guid: cc78cb85c9d877c4dba6e55d1d3e06fa, type: 3}
     m_RemovedComponents: []
-    m_RemovedGameObjects: []
+    m_RemovedGameObjects:
+    - {fileID: 3050943038971443454, guid: 013fb84b95ea0f84eaf71d3123257133, type: 3}
     m_AddedGameObjects: []
     m_AddedComponents:
     - targetCorrespondingSourceObject: {fileID: 416100148896979247, guid: 013fb84b95ea0f84eaf71d3123257133, type: 3}
